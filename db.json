@@ -1,232 +1,232 @@
 {
-  "content": {
-    "sub_heading": "dirubah",
-    "heading": "Multi-chain IGOs",
-    "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
-    "contentData": [
-      {
-        "id": 1,
-        "icon": "fa-brands fa-discord",
-        "featured": "",
-        "title": "Submit KYC",
-        "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
-      },
-      {
-        "id": 2,
-        "icon": "fa-brands fa-hotjar",
-        "featured": "featured",
-        "title": "Verify Wallet",
-        "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
-      },
-      {
-        "id": 3,
-        "icon": "fa-solid fa-rocket",
-        "featured": "",
-        "title": "Start Staking",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
-      }
-    ]
-  },
-  "work": {
-    "sub_heading": "How It Works",
-    "heading": "How To Participate",
-    "workData": [
-      {
-        "id": 1,
-        "icon": "icons icon-drawer text-effect",
-        "title": "Submit KYC",
-        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
-      },
-      {
-        "id": 2,
-        "icon": "icons icon-wallet text-effect",
-        "title": "Verify Wallet",
-        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
-      },
-      {
-        "id": 3,
-        "icon": "icons icon-fire text-effect",
-        "title": "Start Staking",
-        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
-      }
-    ]
-  },
-  "cta": {
-    "sub_heading": "How It Works",
-    "heading": "How To Participate",
-    "img": "/img/cta_thumb.png",
-    "title": "Apply for IGO",
-    "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
-    "btn": "Apply Now",
-    "btnIcon": "icon-rocket mr-2"
-  },
-  "staking": {
-    "heading": "Participate IGO Stake",
-    "balance": "256.50 BUSD",
-    "content": "Once staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
-    "note": "*APY is dynamic.",
-    "input_btn_1": "Approve",
-    "input_btn_2": "Withdraw",
-    "tabData": [
-      {
-        "id": 1,
-        "tabID": "tab-one-tab",
-        "tabClass": "tab-link active",
-        "tabLink": "#tab-one",
-        "title": "07 Days"
-      },
-      {
-        "id": 2,
-        "tabID": "tab-two-tab",
-        "tabClass": "tab-link",
-        "tabLink": "#tab-two",
-        "title": "14 Days"
-      },
-      {
-        "id": 3,
-        "tabID": "tab-three-tab",
-        "tabClass": "tab-link",
-        "tabLink": "#tab-three",
-        "title": "30 Days"
-      },
-      {
-        "id": 4,
-        "tabID": "tab-four-tab",
-        "tabClass": "tab-link",
-        "tabLink": "#tab-four",
-        "title": "60 Days"
-      }
-    ],
-    "tabContent": [
-      {
-        "id": 1,
-        "tabID": "tab-one",
-        "tabClass": "tab-pane fade show active",
-        "tabLink": "tab-one",
-        "period": "7 Days",
-        "lock": "Yes",
-        "fee": "30%",
-        "status": "Unlocked",
-        "apy": "0%"
-      },
-      {
-        "id": 2,
-        "tabID": "tab-two",
-        "tabClass": "tab-pane fade",
-        "tabLink": "tab-two",
-        "period": "14 Days",
-        "lock": "Yes",
-        "fee": "30%",
-        "status": "Unlocked",
-        "apy": "12%"
-      },
-      {
-        "id": 3,
-        "tabID": "tab-three",
-        "tabClass": "tab-pane fade",
-        "tabLink": "tab-three",
-        "period": "30 Days",
-        "lock": "Yes",
-        "fee": "30%",
-        "status": "Unlocked",
-        "apy": "25%"
-      },
-      {
-        "id": 4,
-        "tabID": "tab-four",
-        "tabClass": "tab-pane fade",
-        "tabLink": "tab-four",
-        "period": "60 Days",
-        "lock": "No",
-        "fee": "30%",
-        "status": "Unlocked",
-        "apy": "35%"
-      }
-    ],
-    "features": [
-      {
-        "id": 1,
-        "title": "$9,574,20.84",
-        "className": "card no-hover staking-card",
-        "content": "Total Value Locked"
-      },
-      {
-        "id": 2,
-        "title": "97.23%",
-        "className": "card no-hover staking-card my-4",
-        "content": "APY"
-      },
-      {
-        "id": 3,
-        "title": "6997",
-        "className": "card no-hover staking-card",
-        "content": "Number of Stakers"
-      }
-    ]
-  },
-  "footer": {
-    "img": "/img/logo.png",
-    "copyright": "©2022 Gameon, All Rights Reserved By",
-    "owner": "Themeland",
-    "ownerLink": "https://themeforest.net/user/theme_land",
-    "socialData": [
-      {
-        "id": 1,
-        "link": "https://www.facebook.com/",
-        "icon": "icon-social-facebook"
-      },
-      {
-        "id": 2,
-        "link": "https://twitter.com/",
-        "icon": "icon-social-twitter"
-      },
-      {
-        "id": 3,
-        "link": "https://www.linkedin.com/",
-        "icon": "icon-social-linkedin"
-      },
-      {
-        "id": 4,
-        "link": "https://www.reddit.com/",
-        "icon": "icon-social-reddit"
-      },
-      {
-        "id": 5,
-        "link": "https://discord.com/",
-        "icon": "icon-social-vkontakte"
-      },
-      {
-        "id": 6,
-        "link": "https://www.youtube.com/",
-        "icon": "icon-social-youtube"
-      }
-    ],
-    "widgetData": [
-      {
-        "id": 1,
-        "text": "Features",
-        "link": "/blog"
-      },
-      {
-        "id": 2,
-        "text": "Roadmap",
-        "link": "/blog"
-      },
-      {
-        "id": 3,
-        "text": "How It Works",
-        "link": "/blog"
-      },
-      {
-        "id": 4,
-        "text": "Blog",
-        "link": "/blog"
-      },
-      {
-        "id": 5,
-        "text": "Privacy Policy",
-        "link": "/blog"
-      }
-    ]
-  }
+    "content": {
+        "sub_heading": "Project",
+        "heading": "Multi-chain IGOs",
+        "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
+        "contentData": [
+            {
+                "id": 1,
+                "icon": "fa-brands fa-discord",
+                "featured": "",
+                "title": "Submit KYC",
+                "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
+            },
+            {
+                "id": 2,
+                "icon": "fa-brands fa-hotjar",
+                "featured": "featured",
+                "title": "Verify Wallet",
+                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+            },
+            {
+                "id": 3,
+                "icon": "fa-solid fa-rocket",
+                "featured": "",
+                "title": "Start Staking",
+                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
+            }
+        ]
+    },
+    "work": {
+        "sub_heading": "How It Works",
+        "heading": "How To Participate",
+        "workData": [
+            {
+                "id": 1,
+                "icon": "icons icon-drawer text-effect",
+                "title": "Submit KYC",
+                "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
+            },
+            {
+                "id": 2,
+                "icon": "icons icon-wallet text-effect",
+                "title": "Verify Wallet",
+                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
+            },
+            {
+                "id": 3,
+                "icon": "icons icon-fire text-effect",
+                "title": "Start Staking",
+                "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
+            }
+        ]
+    },
+    "cta": {
+        "sub_heading": "How It Works",
+        "heading": "How To Participate",
+        "img": "/img/cta_thumb.png",
+        "title": "Apply for IGO",
+        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
+        "btn": "Apply Now",
+        "btnIcon": "icon-rocket mr-2"
+    },
+    "staking": {
+        "heading": "Participate IGO Stake",
+        "balance": "256.50 BUSD",
+        "content": "Once staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
+        "note": "*APY is dynamic.",
+        "input_btn_1": "Approve",
+        "input_btn_2": "Withdraw",
+        "tabData": [
+            {
+                "id": 1,
+                "tabID": "tab-one-tab",
+                "tabClass": "tab-link active",
+                "tabLink": "#tab-one",
+                "title": "07 Days"
+            },
+            {
+                "id": 2,
+                "tabID": "tab-two-tab",
+                "tabClass": "tab-link",
+                "tabLink": "#tab-two",
+                "title": "14 Days"
+            },
+            {
+                "id": 3,
+                "tabID": "tab-three-tab",
+                "tabClass": "tab-link",
+                "tabLink": "#tab-three",
+                "title": "30 Days"
+            },
+            {
+                "id": 4,
+                "tabID": "tab-four-tab",
+                "tabClass": "tab-link",
+                "tabLink": "#tab-four",
+                "title": "60 Days"
+            }
+        ],
+        "tabContent": [
+            {
+                "id": 1,
+                "tabID": "tab-one",
+                "tabClass": "tab-pane fade show active",
+                "tabLink": "tab-one",
+                "period": "7 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "0%"
+            },
+            {
+                "id": 2,
+                "tabID": "tab-two",
+                "tabClass": "tab-pane fade",
+                "tabLink": "tab-two",
+                "period": "14 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "12%"
+            },
+            {
+                "id": 3,
+                "tabID": "tab-three",
+                "tabClass": "tab-pane fade",
+                "tabLink": "tab-three",
+                "period": "30 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "25%"
+            },
+            {
+                "id": 4,
+                "tabID": "tab-four",
+                "tabClass": "tab-pane fade",
+                "tabLink": "tab-four",
+                "period": "60 Days",
+                "lock": "No",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "35%"
+            }
+        ],
+        "features": [
+            {
+                "id": 1,
+                "title": "$9,574,20.84",
+                "className": "card no-hover staking-card",
+                "content": "Total Value Locked"
+            },
+            {
+                "id": 2,
+                "title": "97.23%",
+                "className": "card no-hover staking-card my-4",
+                "content": "APY"
+            },
+            {
+                "id": 3,
+                "title": "6997",
+                "className": "card no-hover staking-card",
+                "content": "Number of Stakers"
+            }
+        ]
+    },
+    "footer": {
+        "img": "/img/logo.png",
+        "copyright": "©2022 Gameon, All Rights Reserved By",
+        "owner": "Themeland",
+        "ownerLink": "https://themeforest.net/user/theme_land",
+        "socialData": [
+            {
+                "id": 1,
+                "link": "https://www.facebook.com/",
+                "icon": "icon-social-facebook"
+            },
+            {
+                "id": 2,
+                "link": "https://twitter.com/",
+                "icon": "icon-social-twitter"
+            },
+            {
+                "id": 3,
+                "link": "https://www.linkedin.com/",
+                "icon": "icon-social-linkedin"
+            },
+            {
+                "id": 4,
+                "link": "https://www.reddit.com/",
+                "icon": "icon-social-reddit"
+            },
+            {
+                "id": 5,
+                "link": "https://discord.com/",
+                "icon": "icon-social-vkontakte"
+            },
+            {
+                "id": 6,
+                "link": "https://www.youtube.com/",
+                "icon": "icon-social-youtube"
+            }
+        ],
+        "widgetData": [
+            {
+                "id": 1,
+                "text": "Features",
+                "link": "/blog"
+            },
+            {
+                "id": 2,
+                "text": "Roadmap",
+                "link": "/blog"
+            },
+            {
+                "id": 3,
+                "text": "How It Works",
+                "link": "/blog"
+            },
+            {
+                "id": 4,
+                "text": "Blog",
+                "link": "/blog"
+            },
+            {
+                "id": 5,
+                "text": "Privacy Policy",
+                "link": "/blog"
+            }
+        ]
+    }
 }
