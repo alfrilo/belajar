@@ -35,19 +35,19 @@
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
                 "title": "PHASE 1",
-                "content": "1. Creating Ideas\n2. Developtment Whitepaper 3. Developtment Website 4. Create Smart Contract Xavier (XAV) 5. Developtment XAV Power 6. Developtment XAV Farm"
+                "content": "1. Creating Ideas 2. Developtment Whitepaper 3. Developtment Website 4. Create Smart Contract Xavier (XAV) 5. Developtment Xavier Power 6. Developtment Xavier Farm"
             },
             {
                 "id": 2,
                 "icon": "icons icon-wallet text-effect",
                 "title": "PHASE 2",
-                "content": "1. Launch Website 2. Lauch XAV Power 3. Launch Pre-Sale 1 4. Launch Marketing Program"
+                "content": "1. Launch Website 2. Lauch Pre-Sale 1 3. Launch Xavier Power 1 4. Launch Marketing Program"
             },
             {
                 "id": 3,
                 "icon": "icons icon-fire text-effect",
                 "title": "PHASE 3",
-                "content": "testQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
+                "content": "1. Launch Pre-Sale 2 2. Launch Xavier Farm 3. Roadmap Update 3. Roadmap Update"
             }
         ]
     },
