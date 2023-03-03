@@ -28,25 +28,25 @@
         ]
     },
     "work": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
+        "sub_heading": "Road Map",
+        "heading": "The Journey Of Xavier",
         "workData": [
             {
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
-                "title": "Submit KYC",
+                "title": "PHASE 1",
                 "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
             },
             {
                 "id": 2,
                 "icon": "icons icon-wallet text-effect",
-                "title": "Verify Wallet",
+                "title": "PHASE 2",
                 "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
             },
             {
                 "id": 3,
                 "icon": "icons icon-fire text-effect",
-                "title": "Start Staking",
+                "title": "PHASE 3",
                 "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
             }
         ]
