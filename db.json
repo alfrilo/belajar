@@ -35,7 +35,7 @@
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
                 "title": "PHASE 1",
-                "content": "1. Creating Ideas \n 2. Developtment Whitepaper 3. Developtment Website 4. Create Smart Contract Xavier (XAV) 5. Developtment XAV Power 6. Developtment XAV Farm"
+                "content": "1. Creating Ideas\n2. Developtment Whitepaper 3. Developtment Website 4. Create Smart Contract Xavier (XAV) 5. Developtment XAV Power 6. Developtment XAV Farm"
             },
             {
                 "id": 2,
@@ -47,7 +47,7 @@
                 "id": 3,
                 "icon": "icons icon-fire text-effect",
                 "title": "PHASE 3",
-                "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
+                "content": "testQuis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
             }
         ]
     },
