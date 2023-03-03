@@ -35,7 +35,7 @@
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
                 "title": "PHASE 1",
-                "content": "1. Creating Ideas 2. Developtment Whitepaper 3. Developtment Website 4. Create Smart Contract Xavier (XAV) 5. Developtment Xavier Power 6. Developtment Xavier Farm"
+                "content": "1. Creating Ideas\n2. Developtment Whitepaper 3. Developtment Website 4. Create Smart Contract Xavier (XAV) 5. Developtment Xavier Power 6. Developtment Xavier Farm"
             },
             {
                 "id": 2,
@@ -167,7 +167,7 @@
     "footer": {
         "img": "/img/logo.png",
         "copyright": "©2022 Gameon, All Rights Reserved By",
-        "owner": "Themeland",
+        "owner": "Xavier",
         "ownerLink": "https://themeforest.net/user/theme_land",
         "socialData": [
             {
