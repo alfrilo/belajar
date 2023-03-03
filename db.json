@@ -1,29 +1,29 @@
 {
     "content": {
-        "sub_heading": "Projectsss",
-        "heading": "Multi-chain IGOs",
-        "excerpt": "Join IGOs on multiple blockchains in a single click. Support game by providing LP or just stake the game and get rewards.",
+        "sub_heading": "Project",
+        "heading": "Currenly Ongoing",
+        "excerpt": "Join now and gain experience as well as enjoy the benefits of Xavier ongoing ecosystem",
         "contentData": [
             {
                 "id": 1,
                 "icon": "fa-brands fa-discord",
                 "featured": "",
-                "title": "Submit KYC",
-                "content": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
+                "title": "Pre-sale",
+                "content": "Get Xavier at a low price during Pre-sale 1, Pre-Sale 2, and Pre-Sale 3 at Power Xavier"
             },
             {
                 "id": 2,
                 "icon": "fa-brands fa-hotjar",
                 "featured": "featured",
-                "title": "Verify Wallet",
-                "content": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered."
+                "title": "Power XAVIER",
+                "content": "You can get affiliate benefits in the form of USDT and lock XAV with NFT to earn 200% APY"
             },
             {
                 "id": 3,
                 "icon": "fa-solid fa-rocket",
                 "featured": "",
-                "title": "Start Staking",
-                "content": "It is a long established fact that a reader will be distracted by the readable content of a page."
+                "title": "Farming",
+                "content": "Get 100% APY BNB and XAV by locking them for 6 months and 12 months in XAV Farming"
             }
         ]
     },
